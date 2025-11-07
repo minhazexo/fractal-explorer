@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+
+# build output
+dist
+.vite
+.parcel-cache
+
+# misc
+.DS_Store
+*.log
+.env
+.vscode
